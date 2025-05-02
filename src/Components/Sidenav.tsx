@@ -1,10 +1,10 @@
 import React from "react";
 import fintech from "../assets/fintech.svg";
-import resumo from "../assets/resumo.svg";
-import vendas from "../assets/vendas.svg";
-import webhooks from "../assets/webhooks.svg";
-import configuracoes from "../assets/configuracoes.svg";
-import contato from "../assets/contato.svg";
+import resumo from "../assets/icons/resumo.svg";
+import vendas from "../assets/icons/vendas.svg";
+import webhooks from "../assets/icons/webhooks.svg";
+import configuracoes from "../assets/icons/configuracoes.svg";
+import contato from "../assets/icons/contato.svg";
 import sair from "../assets/icons/sair.svg";
 import FintechSVG from "../assets/FintechSVG";
 import { NavLink } from "react-router-dom";
